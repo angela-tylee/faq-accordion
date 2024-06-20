@@ -18,11 +18,13 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### The challenge / Screenshot
 
+<img width="1268" alt="image" src="https://github.com/angela-tylee/faq-accordion/assets/145020731/fb647f80-f56e-45ba-a773-4ab268a09c36">
+
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/angela-tylee/faq-accordion
+- Live Site URL: https://angela-tylee.github.io/faq-accordion/
 
 ## My process
 
