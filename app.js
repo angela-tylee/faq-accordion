@@ -8,11 +8,11 @@ accordionTitle.forEach((accordionTitle) => {
 
     if (content.style.display === 'block') {
       content.style.display = 'none';
-      icon.src = "/assets/images/icon-plus.svg";
+      icon.src = "./assets/images/icon-plus.svg";
 
     } else {
       content.style.display = 'block';
-        icon.src = "/assets/images/icon-minus.svg";
+        icon.src = "./assets/images/icon-minus.svg";
     }
   })
 })
